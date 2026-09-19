@@ -4,10 +4,10 @@ Last updated: 19 September 2026
 
 ## Who operates this tool
 
-This tool is operated by Mekki [your surname], an individual creator...
+This tool is operated by Mekki [surname], an individual creator
 Contact: your.email@gmail.com
 
-Contact: [www.youtube.com/@TechMeetsMoney0]
+Contact: TechMeetsMoney0@gmail.com
 
 ## What this tool does
 
