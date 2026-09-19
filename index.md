@@ -4,8 +4,10 @@ Last updated: 19 September 2026
 
 ## Who operates this tool
 
-This tool is operated by Mekki [surname], an individual creator
-Contact: your.email@gmail.com
+This tool is operated by Mekki [torkia], an
+individual creator, as a private automation used solely to
+manage the YouTube channel "Tech Meets Money"
+(https://www.youtube.com/@TechMeetsMoney0).
 
 Contact: TechMeetsMoney0@gmail.com
 
